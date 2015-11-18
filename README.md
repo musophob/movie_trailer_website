@@ -21,6 +21,7 @@ To host your own movie website using this site as a template:
 
 ## TODO
 
+- add [imdb rating](http://www.imdb.com/plugins) widget to each movie
 - Use web scraping/API's to compile the list of movies and automatically fetch the trailer url, poster, rating, et all.
 - use python to update the year in meta tags (for seo)
 
