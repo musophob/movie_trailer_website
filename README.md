@@ -7,6 +7,7 @@ This project is a submission for the Movie Trailer Website project in P1 of Udac
 ## Setup
 
 1. [Install python](https://www.python.org/downloads/) 
+2. `pip install lxml requests` (for scraping movie rating)
 2. Run `python entertainment_center.py`
 3. Open the generated HTML
 
