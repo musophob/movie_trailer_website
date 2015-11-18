@@ -4,6 +4,8 @@
 
 This project is a submission for the Movie Trailer Website project in P1 of Udacity.com's Full Stack Nanodegree program.
 
+A demo of the final result is available at [sean.sh/trailerinator](http://sean.sh/trailerinator/).
+
 ## Setup
 
 1. [Install python](https://www.python.org/downloads/) 
