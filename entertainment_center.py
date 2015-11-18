@@ -1,12 +1,10 @@
-import fresh_tomatoes
+import trailerinator
 import media
 
 toy_story = media.Movie("Toy Story", "A story of a boy and his toys that come to life",
                   "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
                   "https://www.youtube.com/watch?v=KYz2wyBy3kc",
                   "tt0499549")
-
-# print(toy_story.storyline)
 
 avatar = media.Movie("Avatar", "A marine on an alien planet",
                 "https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg",
@@ -34,4 +32,4 @@ hunger_games = media.Movie("Hunger Games", "Storyline",
                 "tt0499549")
 
 movies = [toy_story, avatar, school_of_rock, ratatouille, midnight_in_paris, hunger_games]
-fresh_tomatoes.open_movies_page(movies)
+trailerinator.open_movies_page(movies)
