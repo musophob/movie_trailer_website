@@ -1,3 +1,4 @@
+# built after reading http://docs.python-guide.org/en/latest/scenarios/scrape/
 from lxml import html
 import requests
 
